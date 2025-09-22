@@ -1,6 +1,6 @@
 ## 📊 GitHub Statistics
 
-[![Hoang's GitHub stats](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+[![Hoang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoangNguyen0309&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
 
 ---
 
