@@ -1,6 +1,6 @@
 ## 📊 GitHub Statistics
 
-[![Hoang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoangNguyen0309&hide_rank=true)](https://github.com/HoangNguyen0309/github-readme-stats)
+[![Hoang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoangNguyen0309&hide_rank=true&layout=compact&langs_count=10&theme=radical)](https://github.com/HoangNguyen0309/github-readme-stats)
 
 ---
 
