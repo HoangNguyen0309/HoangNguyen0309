@@ -1,6 +1,7 @@
 ## 📊 GitHub Statistics
 
-![Hoang's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+(https://github-readme-stats.vercel.app/api?username=HoangNguyen0309)](https://github.com/HoangNguyen0309/github-readme-stats)
+
 ---
 
 ## 📈 Languages Used (By File Size)
