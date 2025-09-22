@@ -1,6 +1,6 @@
 ## 📊 GitHub Statistics
 
-(https://github-readme-stats.vercel.app/api?username=HoangNguyen0309)](https://github.com/HoangNguyen0309/github-readme-stats)
+(https://github.com/HoangNguyen0309/github-readme-stats)
 
 ---
 
