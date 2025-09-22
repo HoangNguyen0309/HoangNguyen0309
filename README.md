@@ -1,3 +1,7 @@
+## 📊 GitHub Statistics
+![Stats](https://github-readme-stats.vercel.app/api?username=youngjun-yoo16&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoangnguyen0309&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
+---
+
+## 📈 Languages Used (By File Size)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngjun-yoo16&layout=compact&langs_count=10&theme=radical)
