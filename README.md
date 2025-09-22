@@ -1,6 +1,7 @@
 ## 📊 GitHub Statistics
 
-[![Hoang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoangNguyen0309&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_rank=true)
+[![Hoang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoangNguyen0309&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
  
